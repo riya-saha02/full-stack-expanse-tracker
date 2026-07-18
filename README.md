@@ -1,6 +1,6 @@
 ## 💰 Expense Tracker (Full Stack Java App)
 
-A full-stack expense tracking application built entirely in Java, combining a Spring Boot backend, JavaFX desktop frontend, and MySQL database.
+A full-stack expense tracking application built entirely in Java, combining a Spring Boot backend, React.js desktop frontend, and MySQL database.
 
 Track your income, expenses, and financial insights through a sleek, minimalist UI powered by a robust REST API.
 
@@ -12,7 +12,7 @@ Track your income, expenses, and financial insights through a sleek, minimalist 
 - 📈 Visual charts for insights  
 - 🧾 Transaction history with edit/delete  
 - ⚡ RESTful API with Spring Boot  
-- 🖥 Desktop UI built using JavaFX
+- 🖥 Desktop UI built using React.js
 
 ## 🏗️ Tech Stack
 
@@ -22,13 +22,13 @@ Track your income, expenses, and financial insights through a sleek, minimalist 
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🧠 System Design
-JavaFX UI ⇄ Spring Boot REST API ⇄ MySQL Database
+React.js UI ⇄ Spring Boot REST API ⇄ MySQL Database
 
 ## ⭐ Key Highlights
 
 - Built a full-stack application entirely in Java  
 - Designed REST APIs using Spring Boot  
-- Integrated JavaFX frontend with backend services  
+- Integrated React.js frontend with backend services  
 - Implemented real-time transaction updates  
 - Structured clean MVC architecture  
 
